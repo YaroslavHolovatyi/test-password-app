@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'password-app';
+  appTitle = 'Welcome to the password application'
 }
